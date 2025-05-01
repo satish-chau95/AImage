@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Contributed with ❤️ by [satish-chau95]
 
-[![GitHub Follow](https://github.com/satish-chau95)
+(https://github.com/satish-chau95)
 
 </div> 
 # AImage
