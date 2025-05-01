@@ -178,9 +178,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### Contributed with ❤️ by [ phoenixdev100 ] & [singh04ayush]
+### Contributed with ❤️ by [satish-chau95]
 
-[![GitHub Follow](https://img.shields.io/github/followers/singh04ayush?style=social)](https://github.com/singh04ayush)
+[![GitHub Follow](https://github.com/satish-chau95)
 
 </div> 
 # AImage
